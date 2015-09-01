@@ -1,0 +1,16 @@
+Package: hincest
+Type: Package
+Title: HIV Incidence Estimation from Prevalence and Mortality
+Version: 1.0
+Date: 2012-07-11
+Authors@R: c(
+  person("Guy","Mahiane", role="aut"),
+  person("Hilmarie","Brand", role="aut"),
+  person("Alex","Welte",email="alexwelte@sun.ac.za", role="aut"),
+  person("Eduard","Grebe",email="eduardgrebe@sun.ac.za",role=c("cre","aut")),
+  person("Simon","Daniel",email="skjdaniel@gmail.com", role="aut"),
+  person("Cari","van Schalkwyk",email="carivs@sun.ac.za",role="aut")
+  )
+Description: Performs basic HIV incidence Estimation according to the method of Mahiane et al (A general HIV incidence inference scheme based on likelihood of individual level data and a population renewal equation. PLoS One 2012; 7(9):e44377)
+License: GPL (>=3)
+LazyLoad: yes

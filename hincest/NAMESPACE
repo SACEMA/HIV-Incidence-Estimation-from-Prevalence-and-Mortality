@@ -1,0 +1,4 @@
+S3method(plot,hincest)
+S3method(print,hincest)
+export(hincest)
+
